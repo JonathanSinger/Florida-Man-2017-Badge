@@ -10,17 +10,17 @@ Watch @JonathanSinger on Twitter for room updates on Friday Party Day.
 ## Badge
 Unique custom digial badge created to support the party.
 ### Tech Specs
-* ESP8266 package on WEMOS D1 Mini
+ESP8266 package on WEMOS D1 Mini
 
-Further reading: https://wiki.wemos.cc/products:d1:d1_mini
+* Further reading: https://wiki.wemos.cc/products:d1:d1_mini
 
-* Lipo charge shield included
+Lipo charge shield included
 
-Further reading: https://wiki.wemos.cc/products:d1_mini_shields:battery_shield
+* Further reading: https://wiki.wemos.cc/products:d1_mini_shields:battery_shield
 
-* Cool project ideas
+Cool project ideas
 
-Further reading: http://hackaday.com/?s=wemos
+* Further reading: http://hackaday.com/?s=wemos
 ### FAQ
 **What does this thing do?**
 
