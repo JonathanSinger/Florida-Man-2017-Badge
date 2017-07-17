@@ -20,7 +20,7 @@ Each shield can be removed for other fun projects. If you want to charge the bat
 ### Tech Specs
 ESP8266 package on WEMOS D1 Mini
 
-* Further reading: https://wiki.wemos.cc/products:d1:d1_mini
+* Further reading: https://wiki.wemos.cc/products:retired:d1_mini_v2.2.0
 
 Lipo charge shield included
 
