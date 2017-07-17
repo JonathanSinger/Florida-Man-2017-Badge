@@ -11,6 +11,12 @@ Watch @JonathanSinger on Twitter for room updates on Friday Party Day.
 Unique custom digial badge created to support the party.
 
 You can still buy them in person at DEF CON! Contact @JonathanSinger on Twitter
+
+### Assembly
+Adhere the batter flat and centered on the back of the badge. Run the batter wire under the charging board and around to the connecting plug.
+
+Each shield can be removed for other fun projects. If you want to charge the battery without the lights on, just unplug the charge shield from the gator and run separately.
+
 ### Tech Specs
 ESP8266 package on WEMOS D1 Mini
 
