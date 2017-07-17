@@ -34,7 +34,7 @@ Deal with it. Just unplug the battery.
 
 **This has 2 USB ports!**
 
-The top one is for programming, the bottom one is for charging. They can both be used to USB power.
+The top one is for programming, the bottom one is for charging. They can both be used for USB power.
 
 **It doesn't work you asshole!**
 
