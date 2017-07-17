@@ -44,6 +44,7 @@
 #include "index.html.h"
 #include "main.js.h"
 
+// CHANGE ME FOR SUPER FUN TIME
 #define WIFI_SSID "****SEKRET****"
 #define WIFI_PASSWORD "****SEKRET****"
 
@@ -53,7 +54,10 @@
 #define LED_PIN D2
 #define LED_COUNT 6
 
-#define WIFI_TIMEOUT 30000// checks WiFi every 30s.
+// checks WiFi every 30s
+#define WIFI_TIMEOUT 30000
+
+// Thats right, a port is open
 #define HTTP_PORT 80
 
 #define DEFAULT_COLOR 0x00FF00
