@@ -52,6 +52,9 @@ That's nice. I would love to hear how you did it. Maybe we can incorporate your 
 ### Source
 The files listed in this repo with Arduino IDE.
 
+Getting Started:
+* https://wiki.wemos.cc/tutorials:get_started:get_started_in_arduino
+
 Dependency Libraries:
 * Adafruit NeoPixel
 * WS2812FX
