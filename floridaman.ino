@@ -215,7 +215,7 @@ void srv_handle_set() {
     if (server.argName(i) == "b") {
       if(server.arg(i)[0] == '-') {
         ws2812fx.decreaseBrightness(BRIGHTNESS_STEP);
-      } else if(server.arg(i)[0] == '+') {
+      } else if(server.arg(i)[0] == ' ') {
         ws2812fx.increaseBrightness(BRIGHTNESS_STEP);
       } else {
       uint8_t tmp = (uint8_t) strtol(&server.arg(i)[0], NULL, 10);
@@ -226,7 +226,7 @@ void srv_handle_set() {
     if (server.argName(i) == "s") {
       if(server.arg(i)[0] == '-') {
         ws2812fx.decreaseSpeed(SPEED_STEP);
-      } else if(server.arg(i)[0] == '+') {
+      } else if(server.arg(i)[0] == ' ') {
         ws2812fx.increaseSpeed(SPEED_STEP);
       } else {
       uint8_t tmp = (uint8_t) strtol(&server.arg(i)[0], NULL, 10);
