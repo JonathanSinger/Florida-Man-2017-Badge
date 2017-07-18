@@ -6,7 +6,7 @@ Nobu Sake Suite, Caesers Palace, Las Vegas, NV, USA, Earth
 
 Open bar, live DJs, and the finest of Floridian shenagans.
 
-Watch @JonathanSinger on Twitter for room updates on Friday Party Day.
+Watch [@JonathanSinger](https://twitter.com/@JonathanSinger) on Twitter for room updates on Friday Party Day.
 ## Badge
 Unique custom digial badge created to support the party.
 
