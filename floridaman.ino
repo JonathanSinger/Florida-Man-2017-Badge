@@ -62,6 +62,8 @@
 
 #define DEFAULT_COLOR 0x00FF00
 #define DEFAULT_BRIGHTNESS 31
+#define BRIGHTNESS_STEP 15
+#define SPEED_STEP 10   
 #define DEFAULT_SPEED 50
 #define DEFAULT_MODE FX_MODE_TWINKLE_FADE_RANDOM
 
@@ -218,6 +220,7 @@ void srv_handle_set() {
       } else {
       uint8_t tmp = (uint8_t) strtol(&server.arg(i)[0], NULL, 10);
       ws2812fx.setBrightness(tmp);
+      }
     }
 
     if (server.argName(i) == "s") {
@@ -228,6 +231,7 @@ void srv_handle_set() {
       } else {
       uint8_t tmp = (uint8_t) strtol(&server.arg(i)[0], NULL, 10);
       ws2812fx.setSpeed(tmp);
+      }
     }
   }
   server.send(200, "text/plain", "OK");
