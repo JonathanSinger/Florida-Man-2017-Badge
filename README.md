@@ -1,6 +1,6 @@
 # FLORIDA_MAN PARTY AND BADGE
 ## Party
-Friday, July 27th, 10PM - 2AM (approx)
+Friday, July 28th, 10PM - 2AM (approx)
 
 Nobu Sake Suite, Caesers Palace, Las Vegas, NV, USA, Earth
 
