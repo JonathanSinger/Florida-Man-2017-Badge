@@ -64,5 +64,5 @@ Getting Started:
 * https://wiki.wemos.cc/tutorials:get_started:get_started_in_arduino
 
 Dependency Libraries:
-* Adafruit NeoPixel
-* WS2812FX
+* [Adafruit NeoPixel](https://github.com/adafruit/Adafruit_NeoPixel)
+* [WS2812FX](https://github.com/kitesurfer1404/WS2812FX)
