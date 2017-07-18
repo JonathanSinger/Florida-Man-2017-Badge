@@ -164,9 +164,7 @@ void banner() {
   Serial.println("Looking for Florida Man Party Access Point...");                                         
 }  
 
-/*
- * Build <li> string for all modes.
- */
+// Build <li> string for all modes.
 void modes_setup() {
   modes = "";
   for(uint8_t i=0; i < ws2812fx.getModeCount(); i++) {
@@ -213,11 +211,21 @@ void srv_handle_set() {
     }
 
     if (server.argName(i) == "b") {
+      if(server.arg(i)[0] == '-') {
+        ws2812fx.decreaseBrightness(BRIGHTNESS_STEP);
+      } else if(server.arg(i)[0] == '+') {
+        ws2812fx.increaseBrightness(BRIGHTNESS_STEP);
+      } else {
       uint8_t tmp = (uint8_t) strtol(&server.arg(i)[0], NULL, 10);
       ws2812fx.setBrightness(tmp);
     }
 
     if (server.argName(i) == "s") {
+      if(server.arg(i)[0] == '-') {
+        ws2812fx.decreaseSpeed(SPEED_STEP);
+      } else if(server.arg(i)[0] == '+') {
+        ws2812fx.increaseSpeed(SPEED_STEP);
+      } else {
       uint8_t tmp = (uint8_t) strtol(&server.arg(i)[0], NULL, 10);
       ws2812fx.setSpeed(tmp);
     }
