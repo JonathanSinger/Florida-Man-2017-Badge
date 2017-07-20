@@ -8,6 +8,8 @@ Open bar, live DJs, and the finest of Floridian shenagans.
 
 Watch [@JonathanSinger](https://twitter.com/@JonathanSinger) on Twitter for room updates on Friday Party Day.
 ## Badge
+![GATOR](http://i.imgur.com/aT9xAGH.gif)
+
 Unique custom digial badge created to support the party.
 
 You can still buy them in person at DEF CON! Contact @JonathanSinger on Twitter
