@@ -45,8 +45,8 @@
 #include "main.js.h"
 
 // CHANGE ME FOR SUPER FUN TIME
-#define WIFI_SSID "****SEKRET****"
-#define WIFI_PASSWORD "****SEKRET****"
+#define WIFI_SSID "GatorNet"
+#define WIFI_PASSWORD "iliketoparty"
 
 #define min(a,b) ((a)<(b)?(a):(b))
 #define max(a,b) ((a)>(b)?(a):(b))
