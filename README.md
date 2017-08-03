@@ -1,4 +1,7 @@
 # FLORIDA_MAN PARTY AND BADGE
+## Thank You!
+Thank you everyone who made #FLORIDA_MAN a huge success! There was a crazy mad dash for badges, the party had over 200 guests, and everything went better than expected.
+
 ## Party
 Friday, July 28th, 10PM - 2AM (approx)
 
